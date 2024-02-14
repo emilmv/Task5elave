@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Task5Elave\Task5Elave\bin\Debug\net8.0\Task5Elave.exe
+C:\Users\user\Desktop\Task5Elave\Task5Elave\bin\Debug\net8.0\Task5Elave.deps.json
+C:\Users\user\Desktop\Task5Elave\Task5Elave\bin\Debug\net8.0\Task5Elave.runtimeconfig.json
+C:\Users\user\Desktop\Task5Elave\Task5Elave\bin\Debug\net8.0\Task5Elave.dll
+C:\Users\user\Desktop\Task5Elave\Task5Elave\bin\Debug\net8.0\Task5Elave.pdb
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.AssemblyInfo.cs
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.sourcelink.json
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.dll
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\refint\Task5Elave.dll
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.pdb
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\Task5Elave.genruntimeconfig.cache
+C:\Users\user\Desktop\Task5Elave\Task5Elave\obj\Debug\net8.0\ref\Task5Elave.dll
